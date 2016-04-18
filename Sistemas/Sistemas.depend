@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460996543 source:/home/aldair/Escritorio/MEMORIA/Sistemas/main.cpp
+	<iostream>
+	<stdlib.h>
+	<list>
+
